@@ -46,9 +46,7 @@ const posts: Posts[] = [
       role: 'Front-End Developer | @Ipdec'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋',},
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu GitHub 🚀', },
-      { type: 'link', content: 'https://github.com/MauricioDoCSS/Robotron2000', },
+      { type: 'paragraph', content: 'Namoral, esse bixo é muito Amostradinhooo',},
     ],
     publishedAt: new Date('2024-06-17 13:00:00')
   },
